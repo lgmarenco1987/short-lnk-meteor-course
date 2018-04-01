@@ -1,6 +1,6 @@
 # Short Lnk
 
-This is application build using ReactJS and MeteorJS.
+This is a Link Shortener application build using ReactJS and MeteorJS from the Udemy Course.
 
 ## Author:
 
